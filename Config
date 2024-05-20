@@ -1,0 +1,8 @@
+// логин-пароль WiFi
+#define AP_SSID "HUAWEI-65"
+#define AP_PASS "9876543210"
+
+// настройки ленты
+#define LED_PIN D4
+#define LED_CHIP WS2812
+#define LED_ORDER GRB
